@@ -38,27 +38,22 @@ I'm **Azida Kautsar Milla**, a **Frontend Developer** with a strong passion for 
 
 ## Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,flutter,java,spring,php,laravel,mysql,figma,git,github,vscode,postman,maven"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,flutter,java,spring,php"/>
+</p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=laravel,mysql,figma,git,github,vscode,postman,maven"/>
 </p>
 
 
-## GitHub Stats
+## Contribution 
 
 <p align="center">
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=qyuzies7&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=qyuzies7&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qyuzies7&theme=tokyonight"/>
 
 </p>
-
 
 ## GitHub Streak
 
@@ -69,10 +64,10 @@ src="https://streak-stats.demolab.com?user=qyuzies7&theme=github-dark-blue&hide_
 
 </p>
 
-## Contribution 
 
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/qyuzies7/qyuzies7/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
+
